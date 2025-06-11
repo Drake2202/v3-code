@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}(c) 2013 InfinityArts
+${licensePrefix}All codes are for use only in HiddenProject
+<#if licenseLast??>
+${licenseLast}
+</#if>
